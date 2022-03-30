@@ -1,0 +1,432 @@
+
+F9Y5ANL@DESKTOP-NR4SVMR MINGW64 ~
+$ cd D:
+
+F9Y5ANL@DESKTOP-NR4SVMR MINGW64 /d
+$ cd Users/
+
+F9Y5ANL@DESKTOP-NR4SVMR MINGW64 /d/Users
+$ cd F9Y5ANL/stash_
+bash: cd: F9Y5ANL/stash_: No such file or directory
+
+F9Y5ANL@DESKTOP-NR4SVMR MINGW64 /d/Users
+$ cd F9Y5ANL/Documents/stash_repo/
+
+F9Y5ANL@DESKTOP-NR4SVMR MINGW64 ~/Documents/stash_repo
+$ git clone https://F9Y5ANL@escmstash.1dc.com/scm/fdanz/ecomm-onlinereports-uaid-a0035-automation-selenium.git
+Cloning into 'ecomm-onlinereports-uaid-a0035-automation-selenium'...
+warning: You appear to have cloned an empty repository.
+
+F9Y5ANL@DESKTOP-NR4SVMR MINGW64 ~/Documents/stash_repo
+$ c
+Display all 303 possibilities? (y or n)
+
+F9Y5ANL@DESKTOP-NR4SVMR MINGW64 ~/Documents/stash_repo
+$
+
+F9Y5ANL@DESKTOP-NR4SVMR MINGW64 ~/Documents/stash_repo
+$ cd ecomm-onlinereports-uaid-a0035-automation-selenium/
+
+F9Y5ANL@DESKTOP-NR4SVMR MINGW64 ~/Documents/stash_repo/ecomm-onlinereports-uaid-a0035-automation-selenium (master)
+$ git init
+Reinitialized existing Git repository in D:/Users/F9Y5ANL/Documents/stash_repo/ecomm-onlinereports-uaid-a0035-automation-selenium/.git/
+
+F9Y5ANL@DESKTOP-NR4SVMR MINGW64 ~/Documents/stash_repo/ecomm-onlinereports-uaid-a0035-automation-selenium (master)
+$ git add .
+warning: LF will be replaced by CRLF in test-output/Default suite/Default test.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/Default suite/Default test.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/ExtentReportTestNG.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/jquery.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/junitreports/TEST-webAutomation.ApolloTransactionSearch.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/junitreports/TEST-webAutomation.CardManagement.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/junitreports/TEST-webAutomation.FuelCardManagementAmpol.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/junitreports/TEST-webAutomation.FuelCardManagementViva.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/junitreports/TEST-webAutomation.HotcardSerach.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/junitreports/TEST-webAutomation.LoginPage.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/junitreports/TEST-webAutomation.LoginPage2.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/junitreports/TEST-webAutomation.LoginPage3.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/junitreports/TEST-webAutomation.LoginPage4.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/junitreports/TEST-webAutomation.LoginPageBackupExcel.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/junitreports/TEST-webAutomation.OnlineReport.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/junitreports/TEST-webAutomation.SettlementAdjustment.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/Default suite/classes.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/Default suite/groups.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/Default suite/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/Default suite/main.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/Default suite/methods-alphabetical.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/Default suite/methods-not-run.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/Default suite/methods.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/Default suite/reporter-output.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/Default suite/toc.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/suite/classes.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/suite/groups.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/suite/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/suite/main.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/suite/methods-alphabetical.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/suite/methods-not-run.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/suite/methods.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/suite/reporter-output.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/suite/toc.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/suite/Test.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/suite/Test.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/testng-reports.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/testng-reports.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/testng-reports1.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/testng-reports2.js.
+The file will have its original line endings in your working directory
+
+F9Y5ANL@DESKTOP-NR4SVMR MINGW64 ~/Documents/stash_repo/ecomm-onlinereports-uaid-a0035-automation-selenium (master)
+$ git commit -m "initial comment"
+[master (root-commit) c340423] initial comment
+ Committer: Khandelwal <sadichchha.khandelwal@firstdata.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 72 files changed, 7494 insertions(+)
+ create mode 100644 pom.xml
+ create mode 100644 src/main/java/ExtentReportLisetner/ExtentReportListner.java
+ create mode 100644 src/main/java/Util/Transformer.java
+ create mode 100644 src/main/java/Util/util.java
+ create mode 100644 src/main/java/objectRepository/ObjectRepositoryOnlineReport.java
+ create mode 100644 src/main/java/util.java
+ create mode 100644 src/main/java/webAutomation/OnlineReport.java
+ create mode 100644 test-output/Default suite/Default test.html
+ create mode 100644 test-output/Default suite/Default test.xml
+ create mode 100644 test-output/Default suite/testng-failed.xml
+ create mode 100644 test-output/ExtentReportTestNG.html
+ create mode 100644 test-output/Screenshots/Scenario1/TestcaseSA_1_2022_03_11_131352.png
+ create mode 100644 test-output/Screenshots/Scenario1/TestcaseSA_1_2022_03_11_131401.png
+ create mode 100644 test-output/Screenshots/Scenario1/TestcaseSA_2_2022_03_11_131406.png
+ create mode 100644 test-output/Screenshots/Scenario1/TestcaseSA_3_2022_03_11_131407.png
+ create mode 100644 test-output/Screenshots/Scenario1/TestcaseSA_4_2022_03_11_131427.png
+ create mode 100644 test-output/Screenshots/Scenario1/TestcaseSA_5_2022_03_11_131432.png
+ create mode 100644 test-output/bullet_point.png
+ create mode 100644 test-output/collapseall.gif
+ create mode 100644 test-output/emailable-report.html
+ create mode 100644 test-output/failed.png
+ create mode 100644 test-output/index.html
+ create mode 100644 test-output/jquery.min.js
+ create mode 100644 test-output/junitreports/TEST-webAutomation.ApolloTransactionSearch.xml
+ create mode 100644 test-output/junitreports/TEST-webAutomation.CardManagement.xml
+ create mode 100644 test-output/junitreports/TEST-webAutomation.FuelCardManagementAmpol.xml
+ create mode 100644 test-output/junitreports/TEST-webAutomation.FuelCardManagementViva.xml
+ create mode 100644 test-output/junitreports/TEST-webAutomation.HotcardSerach.xml
+ create mode 100644 test-output/junitreports/TEST-webAutomation.LoginPage.xml
+ create mode 100644 test-output/junitreports/TEST-webAutomation.LoginPage2.xml
+ create mode 100644 test-output/junitreports/TEST-webAutomation.LoginPage3.xml
+ create mode 100644 test-output/junitreports/TEST-webAutomation.LoginPage4.xml
+ create mode 100644 test-output/junitreports/TEST-webAutomation.LoginPageBackupExcel.xml
+ create mode 100644 test-output/junitreports/TEST-webAutomation.OnlineReport.xml
+ create mode 100644 test-output/junitreports/TEST-webAutomation.SettlementAdjustment.xml
+ create mode 100644 test-output/navigator-bullet.png
+ create mode 100644 test-output/old/Default suite/Default test.properties
+ create mode 100644 test-output/old/Default suite/classes.html
+ create mode 100644 test-output/old/Default suite/groups.html
+ create mode 100644 test-output/old/Default suite/index.html
+ create mode 100644 test-output/old/Default suite/main.html
+ create mode 100644 test-output/old/Default suite/methods-alphabetical.html
+ create mode 100644 test-output/old/Default suite/methods-not-run.html
+ create mode 100644 test-output/old/Default suite/methods.html
+ create mode 100644 test-output/old/Default suite/reporter-output.html
+ create mode 100644 test-output/old/Default suite/testng.xml.html
+ create mode 100644 test-output/old/Default suite/toc.html
+ create mode 100644 test-output/old/index.html
+ create mode 100644 test-output/old/suite/Test.properties
+ create mode 100644 test-output/old/suite/classes.html
+ create mode 100644 test-output/old/suite/groups.html
+ create mode 100644 test-output/old/suite/index.html
+ create mode 100644 test-output/old/suite/main.html
+ create mode 100644 test-output/old/suite/methods-alphabetical.html
+ create mode 100644 test-output/old/suite/methods-not-run.html
+ create mode 100644 test-output/old/suite/methods.html
+ create mode 100644 test-output/old/suite/reporter-output.html
+ create mode 100644 test-output/old/suite/testng.xml.html
+ create mode 100644 test-output/old/suite/toc.html
+ create mode 100644 test-output/passed.png
+ create mode 100644 test-output/skipped.png
+ create mode 100644 test-output/suite/Test.html
+ create mode 100644 test-output/suite/Test.xml
+ create mode 100644 test-output/suite/testng-failed.xml
+ create mode 100644 test-output/testng-failed.xml
+ create mode 100644 test-output/testng-reports.css
+ create mode 100644 test-output/testng-reports.js
+ create mode 100644 test-output/testng-reports1.css
+ create mode 100644 test-output/testng-reports2.js
+ create mode 100644 test-output/testng-results.xml
+ create mode 100644 test-output/testng.css
+ create mode 100644 testng.xml
+
+F9Y5ANL@DESKTOP-NR4SVMR MINGW64 ~/Documents/stash_repo/ecomm-onlinereports-uaid-a0035-automation-selenium (master)
+$ git push origin master
+Enumerating objects: 89, done.
+Counting objects: 100% (89/89), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (83/83), done.
+Writing objects: 100% (89/89), 319.26 KiB | 3.47 MiB/s, done.
+Total 89 (delta 24), reused 0 (delta 0), pack-reused 0
+To https://escmstash.1dc.com/scm/fdanz/ecomm-onlinereports-uaid-a0035-automation-selenium.git
+ * [new branch]      master -> master
+
+F9Y5ANL@DESKTOP-NR4SVMR MINGW64 ~/Documents/stash_repo/ecomm-onlinereports-uaid-a0035-automation-selenium (master)
+$ cd ../
+
+F9Y5ANL@DESKTOP-NR4SVMR MINGW64 ~/Documents/stash_repo
+$ git clone https://F9Y5ANL@escmstash.1dc.com/scm/fdanz/ecomm-hotcardsearchfacility-uaid-04380-automation-selenium.git
+Cloning into 'ecomm-hotcardsearchfacility-uaid-04380-automation-selenium'...
+warning: You appear to have cloned an empty repository.
+
+F9Y5ANL@DESKTOP-NR4SVMR MINGW64 ~/Documents/stash_repo
+$ cd ecomm-hotcardsearchfacility-uaid-04380-automation-selenium/
+
+F9Y5ANL@DESKTOP-NR4SVMR MINGW64 ~/Documents/stash_repo/ecomm-hotcardsearchfacility-uaid-04380-automation-selenium (master)
+$ git init
+Reinitialized existing Git repository in D:/Users/F9Y5ANL/Documents/stash_repo/ecomm-hotcardsearchfacility-uaid-04380-automation-selenium/.git/
+
+F9Y5ANL@DESKTOP-NR4SVMR MINGW64 ~/Documents/stash_repo/ecomm-hotcardsearchfacility-uaid-04380-automation-selenium (master)
+$ git add
+Nothing specified, nothing added.
+hint: Maybe you wanted to say 'git add .'?
+hint: Turn this message off by running
+hint: "git config advice.addEmptyPathspec false"
+
+F9Y5ANL@DESKTOP-NR4SVMR MINGW64 ~/Documents/stash_repo/ecomm-hotcardsearchfacility-uaid-04380-automation-selenium (master)
+$ git add .
+warning: LF will be replaced by CRLF in test-output/Default suite/Default test.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/Default suite/Default test.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/ExtentReportTestNG.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/jquery.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/junitreports/TEST-webAutomation.ApolloTransactionSearch.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/junitreports/TEST-webAutomation.CardManagement.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/junitreports/TEST-webAutomation.FuelCardManagementAmpol.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/junitreports/TEST-webAutomation.FuelCardManagementViva.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/junitreports/TEST-webAutomation.HotcardSerach.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/junitreports/TEST-webAutomation.LoginPage.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/junitreports/TEST-webAutomation.LoginPage2.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/junitreports/TEST-webAutomation.LoginPage3.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/junitreports/TEST-webAutomation.LoginPage4.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/junitreports/TEST-webAutomation.LoginPageBackupExcel.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/junitreports/TEST-webAutomation.OnlineReport.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/junitreports/TEST-webAutomation.SettlementAdjustment.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/Default suite/classes.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/Default suite/groups.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/Default suite/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/Default suite/main.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/Default suite/methods-alphabetical.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/Default suite/methods-not-run.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/Default suite/methods.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/Default suite/reporter-output.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/Default suite/toc.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/suite/classes.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/suite/groups.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/suite/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/suite/main.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/suite/methods-alphabetical.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/suite/methods-not-run.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/suite/methods.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/suite/reporter-output.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/suite/toc.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/suite/Test.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/suite/Test.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/testng-reports.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/testng-reports.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/testng-reports1.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/testng-reports2.js.
+The file will have its original line endings in your working directory
+
+F9Y5ANL@DESKTOP-NR4SVMR MINGW64 ~/Documents/stash_repo/ecomm-hotcardsearchfacility-uaid-04380-automation-selenium (master)
+$ git commit -m "hotcard"
+[master (root-commit) 34533a1] hotcard
+ Committer: Khandelwal <sadichchha.khandelwal@firstdata.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 72 files changed, 7294 insertions(+)
+ create mode 100644 pom.xml
+ create mode 100644 src/main/java/ExtentReportLisetner/ExtentReportListner.java
+ create mode 100644 src/main/java/Util/Transformer.java
+ create mode 100644 src/main/java/Util/util.java
+ create mode 100644 src/main/java/objectRepository/HotcardObjectRepository.java
+ create mode 100644 src/main/java/util.java
+ create mode 100644 src/main/java/webAutomation/HotcardSerach.java
+ create mode 100644 test-output/Default suite/Default test.html
+ create mode 100644 test-output/Default suite/Default test.xml
+ create mode 100644 test-output/Default suite/testng-failed.xml
+ create mode 100644 test-output/ExtentReportTestNG.html
+ create mode 100644 test-output/Screenshots/Scenario1/TestcaseSA_1_2022_03_11_131352.png
+ create mode 100644 test-output/Screenshots/Scenario1/TestcaseSA_1_2022_03_11_131401.png
+ create mode 100644 test-output/Screenshots/Scenario1/TestcaseSA_2_2022_03_11_131406.png
+ create mode 100644 test-output/Screenshots/Scenario1/TestcaseSA_3_2022_03_11_131407.png
+ create mode 100644 test-output/Screenshots/Scenario1/TestcaseSA_4_2022_03_11_131427.png
+ create mode 100644 test-output/Screenshots/Scenario1/TestcaseSA_5_2022_03_11_131432.png
+ create mode 100644 test-output/bullet_point.png
+ create mode 100644 test-output/collapseall.gif
+ create mode 100644 test-output/emailable-report.html
+ create mode 100644 test-output/failed.png
+ create mode 100644 test-output/index.html
+ create mode 100644 test-output/jquery.min.js
+ create mode 100644 test-output/junitreports/TEST-webAutomation.ApolloTransactionSearch.xml
+ create mode 100644 test-output/junitreports/TEST-webAutomation.CardManagement.xml
+ create mode 100644 test-output/junitreports/TEST-webAutomation.FuelCardManagementAmpol.xml
+ create mode 100644 test-output/junitreports/TEST-webAutomation.FuelCardManagementViva.xml
+ create mode 100644 test-output/junitreports/TEST-webAutomation.HotcardSerach.xml
+ create mode 100644 test-output/junitreports/TEST-webAutomation.LoginPage.xml
+ create mode 100644 test-output/junitreports/TEST-webAutomation.LoginPage2.xml
+ create mode 100644 test-output/junitreports/TEST-webAutomation.LoginPage3.xml
+ create mode 100644 test-output/junitreports/TEST-webAutomation.LoginPage4.xml
+ create mode 100644 test-output/junitreports/TEST-webAutomation.LoginPageBackupExcel.xml
+ create mode 100644 test-output/junitreports/TEST-webAutomation.OnlineReport.xml
+ create mode 100644 test-output/junitreports/TEST-webAutomation.SettlementAdjustment.xml
+ create mode 100644 test-output/navigator-bullet.png
+ create mode 100644 test-output/old/Default suite/Default test.properties
+ create mode 100644 test-output/old/Default suite/classes.html
+ create mode 100644 test-output/old/Default suite/groups.html
+ create mode 100644 test-output/old/Default suite/index.html
+ create mode 100644 test-output/old/Default suite/main.html
+ create mode 100644 test-output/old/Default suite/methods-alphabetical.html
+ create mode 100644 test-output/old/Default suite/methods-not-run.html
+ create mode 100644 test-output/old/Default suite/methods.html
+ create mode 100644 test-output/old/Default suite/reporter-output.html
+ create mode 100644 test-output/old/Default suite/testng.xml.html
+ create mode 100644 test-output/old/Default suite/toc.html
+ create mode 100644 test-output/old/index.html
+ create mode 100644 test-output/old/suite/Test.properties
+ create mode 100644 test-output/old/suite/classes.html
+ create mode 100644 test-output/old/suite/groups.html
+ create mode 100644 test-output/old/suite/index.html
+ create mode 100644 test-output/old/suite/main.html
+ create mode 100644 test-output/old/suite/methods-alphabetical.html
+ create mode 100644 test-output/old/suite/methods-not-run.html
+ create mode 100644 test-output/old/suite/methods.html
+ create mode 100644 test-output/old/suite/reporter-output.html
+ create mode 100644 test-output/old/suite/testng.xml.html
+ create mode 100644 test-output/old/suite/toc.html
+ create mode 100644 test-output/passed.png
+ create mode 100644 test-output/skipped.png
+ create mode 100644 test-output/suite/Test.html
+ create mode 100644 test-output/suite/Test.xml
+ create mode 100644 test-output/suite/testng-failed.xml
+ create mode 100644 test-output/testng-failed.xml
+ create mode 100644 test-output/testng-reports.css
+ create mode 100644 test-output/testng-reports.js
+ create mode 100644 test-output/testng-reports1.css
+ create mode 100644 test-output/testng-reports2.js
+ create mode 100644 test-output/testng-results.xml
+ create mode 100644 test-output/testng.css
+ create mode 100644 testng.xml
+
+F9Y5ANL@DESKTOP-NR4SVMR MINGW64 ~/Documents/stash_repo/ecomm-hotcardsearchfacility-uaid-04380-automation-selenium (master)
+$ git push origin master
+Enumerating objects: 89, done.
+Counting objects: 100% (89/89), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (83/83), done.
+Writing objects: 100% (89/89), 318.63 KiB | 3.84 MiB/s, done.
+Total 89 (delta 23), reused 0 (delta 0), pack-reused 0
+To https://escmstash.1dc.com/scm/fdanz/ecomm-hotcardsearchfacility-uaid-04380-automation-selenium.git
+ * [new branch]      master -> master
+
+F9Y5ANL@DESKTOP-NR4SVMR MINGW64 ~/Documents/stash_repo/ecomm-hotcardsearchfacility-uaid-04380-automation-selenium (master)
